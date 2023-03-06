@@ -1,11 +1,11 @@
-# StcpJsx-Example
+# StcpJsx-Example-Clone
 
-The Vivado projects includes the source codes from other repositories. Keep the directory structure like this.
-(Do not forget to put ".git" to the directories for git repositories.)
+This is the copy repository of AMANEQ-official/StcpJsx-Example.
+
+Keep the directory structure below, since this firmware includes the source and NGC files for SiTCP from the different directory.
 
 ```
 Your-work-directory
-├── amaneq_devel.git
 ├── SiTCP
-└── StcpJsx-Example.git (this repository)
+└── StcpJsx-Example-Clone.git (this repository)
 ```
